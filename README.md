@@ -1,22 +1,30 @@
 
-<h2>
+<h1>
 👨‍💻 Gustavo Villar 👨‍💻 
-</h2>
+</h1>
 
-- 👋 A UFRJ Computer Science student and freelance developer;
-- 👀 Passionate about: Math, ML and Cybersecurity;
+- 👋 A UFRJ Computer Science student and full stack developer;
+- 💞 Passionate about: Math, ML and Cybersecurity;
 - 🌱 I’m currently learning web development: (CSS, React, NodeJS, Databases);
-- 💞️ I’m available for any project or job that allows me to develop my hard skills and nourish my soft skills.
+- 💻 I’m available for any project or job that allows me to develop my hard skills and nourish my soft skills.
 
-## Contact
+## Contact 📞
 
 <a href="https://www.linkedin.com/in/gustavo-marinatto-92282b21b/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:marinatto.gustavo@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img color="align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+
+<br/>
+
+## Github Stats 🕹
+
+[![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavo-villar-dev)](https://github.com/anuraghazra/github-readme-stats)
  
+                                                                                                                      
+                
 
 <!---
 gustavo-villar-dev/gustavo-villar-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
