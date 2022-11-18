@@ -1,6 +1,7 @@
 
-
-## Gustavo Villar
+<h2>
+👨‍💻 Gustavo Villar 👨‍💻 
+</h2>
 
 - 👋 A UFRJ Computer Science student and freelance developer;
 - 👀 Passionate about: Math, ML and Cybersecurity;
@@ -9,14 +10,14 @@
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/gustavo-marinatto-92282b21b/" target="_blank">
+<a href="https://www.linkedin.com/in/gustavo-marinatto-92282b21b/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:marinatto.gustavo@gmail.com" target="_blank">
-  <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto:marinatto.gustavo@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img color="align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+ 
 
-<br></br>
 <!---
 gustavo-villar-dev/gustavo-villar-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
