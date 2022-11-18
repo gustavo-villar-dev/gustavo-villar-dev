@@ -9,10 +9,10 @@
 
 ## Contact
 
-<a target="_blank" href="https://www.linkedin.com/in/gustavo-marinatto-92282b21b/">
+<a href="https://www.linkedin.com/in/gustavo-marinatto-92282b21b/" target="_blank">
   <img align="left" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="mailto:marinatto.gustavo@gmail.com">
+<a href="mailto:marinatto.gustavo@gmail.com" target="_blank">
   <img align="left" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
