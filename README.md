@@ -4,8 +4,7 @@
 </h1>
 
 - 👋 A UFRJ Computer Science student and full stack developer;
-- 💞 Passionate about: Math, ML and Cybersecurity;
-- 🌱 I’m currently learning web development: (CSS, React, NodeJS, Databases);
+- 💞 Just want to code;
 - 💻 I’m available for any project or job that allows me to develop my hard skills and nourish my soft skills.
 
 ## Contact 📞
