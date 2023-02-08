@@ -3,8 +3,8 @@
 👨‍💻 Gustavo Villar 👨‍💻 
 </h1>
 
-- 👋 A UFRJ Computer Science student and full stack developer;
-- 💞 Just want to code;
+- 👋 A UFRJ Computer Science student and everything developer;
+- 💞 I just want to code;
 - 💻 I’m available for any project or job that allows me to develop my hard skills and nourish my soft skills.
 
 ## Contact 📞
