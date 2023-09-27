@@ -3,8 +3,6 @@
 👨‍💻 Gustavo Villar 👨‍💻 
 </h1>
 
-- 👋 A musician and developer.
-
 ## Contact 📞
 
 <a href="https://www.linkedin.com/in/gustavo-marinatto-92282b21b/" target="_blank" rel="noopener noreferrer">
